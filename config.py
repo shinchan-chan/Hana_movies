@@ -40,7 +40,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/Mes.jpg")
 
 #text
 HELP_TXT = "<blockquote><b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/+KPJ5glEICD40Njc1>Clickhere</a></b></blockquote>"
-ABOUT_TXT = "<blockquote><b><i>About Us..\n\n‣ Made for : <a href=https://t.me/+R-pe04TGrZRmOWE1>ClickHere</a>\n‣ Owned by : @DoraShin_hlo\n‣ Maintained by : @DoraShin_hlo\n‣ Developed by : @DoraShin_hlo\n\n Gojo !!</i></b></blockquote>"
+ABOUT_TXT = "<blockquote><b><i>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/DoraShin_hlo>➳≛⃝ Gojo</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/HellFire_Academy>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Ongoing_HellFire_Academy>𝐎ɴɢᴏɪɴɢ 𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/HellFire_Academy_Chat>𝐇ᴇʟʟғɪʀᴇ 𝐆ᴄ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/DoraShin_hlo>➳≛⃝ Gojo</i></b></blockquote>"
 #start message
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜɪ ᴛʜᴇʀᴇ... {first}! 💥\n\nɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!\n\nᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/@HellFire_Network>HellFire Network</a></b>")
 try:
